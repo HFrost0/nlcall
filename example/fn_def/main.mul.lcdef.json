@@ -1,0 +1,13 @@
+{
+  "name": "mul",
+  "description": "Return the product of integers.",
+  "parameters": {
+    "properties": {
+      "nums": {
+        "description": "multiple integers which will be multiplied together",
+        "type": "array"
+      }
+    },
+    "type": "object"
+  }
+}

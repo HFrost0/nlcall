@@ -1,0 +1,13 @@
+{
+  "name": "lengthOfLongestSubstring",
+  "description": "returns the length of the longest substring without repeating characters.",
+  "parameters": {
+    "properties": {
+      "s": {
+        "description": "the input string to check for unique substrings",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "add",
+  "description": "Return the sum of integers.",
+  "parameters": {
+    "properties": {
+      "nums": {
+        "description": "Multiple integers which will be added together",
+        "type": "array"
+      }
+    },
+    "type": "object"
+  }
+}

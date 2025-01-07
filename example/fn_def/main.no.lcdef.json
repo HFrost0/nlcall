@@ -1,0 +1,9 @@
+{
+  "name": "no",
+  "description": "this function simply return \"Sorry, I can't help you with that.\"",
+  "parameters": {
+    "properties": {
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "greet",
+  "description": "Return a greeting message with the person's name and age.",
+  "parameters": {
+    "properties": {
+      "age": {
+        "description": "the person's age",
+        "type": "integer"
+      },
+      "name": {
+        "description": "the person's name",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

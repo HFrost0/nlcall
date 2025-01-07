@@ -1,0 +1,13 @@
+{
+  "name": "weather",
+  "description": "returns the weather in a specified city.",
+  "parameters": {
+    "properties": {
+      "city": {
+        "description": "the name of the city to check the weather for",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}
